@@ -5,10 +5,6 @@ Estudiante de Ingeniería de Sistemas. Entusiasta por el continuo aprendizaje, c
 Me interesa el desarrollo **Full Stack** y la **Nube**.
 
 
-## Otros estudios
-- Desarrollo Full Stack *Undefined Academy*, en proceso
-- Introducción a la nube con Azure *Platzi*
-
 ---
 
 
